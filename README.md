@@ -1,8 +1,5 @@
-#  name is Gabriel and im a Front end developer.
+#  My name is Gabriel and im a Front end developer.
 
 ## My skills
 
-
-[1]: http://www.github.com/your_contact_info
-[2]: https://www.linkedin.com/in/your_contact_info
-[3]: https://www.facebook.com/your_contact_info
+![Group 1](https://user-images.githubusercontent.com/91872558/173449843-b1c08009-3081-4d6c-804d-a0f3a4d33d91.png)
