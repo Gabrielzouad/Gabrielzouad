@@ -1,6 +1,6 @@
 #  My name is Gabriel and im a Front end developer.
 
-I love to create and develop my own stuff, creative freedom in projects is the best thing!
+I love to create and develop my own stuff, creative freedom in projects is the best!
 
 ## My skills
 
