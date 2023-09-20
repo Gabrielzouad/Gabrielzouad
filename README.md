@@ -1,5 +1,5 @@
 
-[![MasterHead](![image](https://github.com/Gabrielzouad/Gabrielzouad/assets/91872558/4a4d1015-d9fb-403b-a3ff-2e9b8a779051)
+(![image](https://github.com/Gabrielzouad/Gabrielzouad/assets/91872558/4a4d1015-d9fb-403b-a3ff-2e9b8a779051)
 
 <h1 align="center">Hi 👋, I'm Gabriel Zouad</h1>
 <h3 align="center">A passionate frontend developer from Norway, Oslo</h3>
