@@ -1,8 +1,8 @@
 
+[![MasterHead](![image](https://github.com/Gabrielzouad/Gabrielzouad/assets/91872558/4a4d1015-d9fb-403b-a3ff-2e9b8a779051)
+
 <h1 align="center">Hi 👋, I'm Gabriel Zouad</h1>
 <h3 align="center">A passionate frontend developer from Norway, Oslo</h3>
-<img align=“center” alt=“coding” width=“400” src=“https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif”>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielzouad" alt="gabrielzouad" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce with sanity**
 
